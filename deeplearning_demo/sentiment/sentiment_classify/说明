@@ -1,0 +1,10 @@
+本脚本主要处理评论信息的情感倾向性信息
+sentiment_classify.py 用LSTM进行评论倾向性分析的脚本
+pos.xls  正样本
+neg.xls  负样本
+sum.xls  采集到的正负样本集合
+
+以下为少量语料，主要用于倾向性分析
+pos2.xls
+neg2.xls
+sum2.xls
